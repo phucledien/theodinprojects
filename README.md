@@ -2,4 +2,4 @@
 
 ## This is a place I put all my projects, which I did at TheOdinProject.com
 
-[### Ruby Projects](https://github.com/phucledien/theodinprojects/tree/master/ruby-projects) 
+### [Ruby Projects](https://github.com/phucledien/theodinprojects/tree/master/ruby-projects) 
