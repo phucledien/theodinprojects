@@ -1,6 +1,6 @@
 ## Project: Building Blocks
 
-### Project 1: Caesar Cipher
+### [Project 1: Caesar Cipher](./project1_caesar_cipher/caesarcipher.rb)
 
 From Wikipedia:
 
@@ -17,7 +17,7 @@ Implement a caesar cipher that takes in a string and the shift factor and then o
     => "Bmfy f xywnsl!"
 ```
 
-### Project 2: Stock Picker
+### [Project 2: Stock Picker](./project2_stock_picker/stock_pricker.rb)
 
 
 ### Your Task
@@ -29,7 +29,7 @@ Implement a method `#stock_picker` that takes in an array of stock prices, one f
     => [1,4]  # for a profit of $15 - $3 == $12
 ```
 
-### Project 3: Substrings
+### [Project 3: Substrings](./project3_substrings/substrings.rb)
 
 ### Your Task
 
