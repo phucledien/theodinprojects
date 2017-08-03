@@ -1,6 +1,6 @@
 ## Project: Advanced Building Blocks
 
-### Project 1: Bubble Sort
+### [Project 1: Bubble Sort](./project1_bubble_sort.rb)
 
 ![Bubble Sort](http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
@@ -22,7 +22,7 @@
         => ["hi", "hey", "hello"]
     ```
     
-### Project 2: Enumerable Methods
+### [Project 2: Enumerable Methods](./project2_enumerable_methods.rb)
 
 You learned about the Enumerable module that gets mixed in to the Array and Hash classes (among others) and provides you with lots of handy iterator methods.  To prove that there's no magic to it, you're going to rebuild those methods.
 
